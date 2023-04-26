@@ -7367,10 +7367,6 @@
         },
         {
             "sampler" : 0,
-            "source" : 49
-        },
-        {
-            "sampler" : 0,
             "source" : 58
         },
         {
@@ -7380,34 +7376,6 @@
         {
             "sampler" : 0,
             "source" : 60
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
-        },
-        {
-            "sampler" : 0,
-            "source" : 30
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
-        },
-        {
-            "sampler" : 0,
-            "source" : 59
-        },
-        {
-            "sampler" : 0,
-            "source" : 60
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
         },
         {
             "sampler" : 0,
@@ -7415,27 +7383,31 @@
         },
         {
             "sampler" : 0,
-            "source" : 58
+            "source" : 59
         },
         {
             "sampler" : 0,
-            "source" : 2
+            "source" : 30
         },
         {
             "sampler" : 0,
-            "source" : 58
+            "source" : 59
         },
         {
             "sampler" : 0,
-            "source" : 2
+            "source" : 60
         },
         {
             "sampler" : 0,
-            "source" : 58
+            "source" : 61
         },
         {
             "sampler" : 0,
-            "source" : 58
+            "source" : 59
+        },
+        {
+            "sampler" : 0,
+            "source" : 59
         },
         {
             "sampler" : 0,
@@ -7443,11 +7415,27 @@
         },
         {
             "sampler" : 0,
-            "source" : 58
+            "source" : 59
         },
         {
             "sampler" : 0,
-            "source" : 58
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 59
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 59
+        },
+        {
+            "sampler" : 0,
+            "source" : 59
         },
         {
             "sampler" : 0,
@@ -7455,7 +7443,19 @@
         },
         {
             "sampler" : 0,
-            "source" : 58
+            "source" : 59
+        },
+        {
+            "sampler" : 0,
+            "source" : 59
+        },
+        {
+            "sampler" : 0,
+            "source" : 64
+        },
+        {
+            "sampler" : 0,
+            "source" : 59
         },
         {
             "sampler" : 0,
@@ -7710,8 +7710,8 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "Ligthmap_Escritorio",
-            "uri" : "Ligthmap_Escritorio.png"
+            "name" : "Baking_Iluminaci\u00f3n_Lateral_Denoiser",
+            "uri" : "Baking_Iluminaci%C3%B3n_Lateral_Denoiser.png"
         },
         {
             "mimeType" : "image/jpeg",
@@ -7752,6 +7752,11 @@
             "mimeType" : "image/jpeg",
             "name" : "color_dark",
             "uri" : "color_dark-1.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Ligthmap_Escritorio",
+            "uri" : "Ligthmap_Escritorio.png"
         },
         {
             "mimeType" : "image/png",

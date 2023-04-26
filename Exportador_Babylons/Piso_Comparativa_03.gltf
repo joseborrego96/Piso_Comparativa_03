@@ -3449,8 +3449,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 20,
-                "texCoord" : 1
+                "index" : 20
             },
             "name" : "Ceiling",
             "normalTexture" : {
@@ -3466,13 +3465,11 @@
                         ]
                     }
                 },
-                "index" : 21,
-                "texCoord" : 1
+                "index" : 21
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 22,
-                    "texCoord" : 1
+                    "index" : 22
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5

@@ -7367,6 +7367,10 @@
         },
         {
             "sampler" : 0,
+            "source" : 49
+        },
+        {
+            "sampler" : 0,
             "source" : 58
         },
         {
@@ -7379,15 +7383,15 @@
         },
         {
             "sampler" : 0,
-            "source" : 61
-        },
-        {
-            "sampler" : 0,
-            "source" : 59
+            "source" : 58
         },
         {
             "sampler" : 0,
             "source" : 30
+        },
+        {
+            "sampler" : 0,
+            "source" : 58
         },
         {
             "sampler" : 0,
@@ -7399,15 +7403,39 @@
         },
         {
             "sampler" : 0,
+            "source" : 58
+        },
+        {
+            "sampler" : 0,
+            "source" : 58
+        },
+        {
+            "sampler" : 0,
             "source" : 61
         },
         {
             "sampler" : 0,
-            "source" : 59
+            "source" : 58
         },
         {
             "sampler" : 0,
-            "source" : 59
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 58
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 58
+        },
+        {
+            "sampler" : 0,
+            "source" : 58
         },
         {
             "sampler" : 0,
@@ -7415,27 +7443,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 59
+            "source" : 58
         },
         {
             "sampler" : 0,
-            "source" : 2
-        },
-        {
-            "sampler" : 0,
-            "source" : 59
-        },
-        {
-            "sampler" : 0,
-            "source" : 2
-        },
-        {
-            "sampler" : 0,
-            "source" : 59
-        },
-        {
-            "sampler" : 0,
-            "source" : 59
+            "source" : 58
         },
         {
             "sampler" : 0,
@@ -7443,19 +7455,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 59
-        },
-        {
-            "sampler" : 0,
-            "source" : 59
-        },
-        {
-            "sampler" : 0,
-            "source" : 64
-        },
-        {
-            "sampler" : 0,
-            "source" : 59
+            "source" : 58
         },
         {
             "sampler" : 0,
@@ -7752,11 +7752,6 @@
             "mimeType" : "image/jpeg",
             "name" : "color_dark",
             "uri" : "color_dark-1.jpg"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "Ligthmap_Escritorio",
-            "uri" : "Ligthmap_Escritorio.png"
         },
         {
             "mimeType" : "image/png",

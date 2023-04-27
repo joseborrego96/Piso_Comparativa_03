@@ -3268,15 +3268,6 @@
         },
         {
             "doubleSided" : true,
-            "emissiveFactor" : [
-                1,
-                1,
-                1
-            ],
-            "emissiveTexture" : {
-                "index" : 12,
-                "texCoord" : 1
-            },
             "extras" : {
                 "babylonUnlit" : 0,
                 "babylonMaxSimultaneousLights" : 4,
@@ -3297,7 +3288,7 @@
                             ]
                         }
                     },
-                    "index" : 13,
+                    "index" : 12,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0
@@ -3311,12 +3302,12 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 14
+                "index" : 13
             },
             "name" : "Ground_Garden",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 15
+                    "index" : 14
                 },
                 "metallicFactor" : 0
             }
@@ -3329,7 +3320,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 16
+                "index" : 15
             },
             "name" : "Ground_terrace",
             "pbrMetallicRoughness" : {
@@ -3346,7 +3337,7 @@
                             ]
                         }
                     },
-                    "index" : 17
+                    "index" : 16
                 },
                 "metallicFactor" : 0
             }
@@ -3359,7 +3350,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 18
+                "index" : 17
             },
             "name" : "Ground",
             "pbrMetallicRoughness" : {
@@ -3376,7 +3367,7 @@
                             ]
                         }
                     },
-                    "index" : 19
+                    "index" : 18
                 },
                 "metallicFactor" : 0
             }
@@ -3389,7 +3380,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 20,
+                "index" : 19,
                 "texCoord" : 1
             },
             "name" : "Baseboard",
@@ -3407,7 +3398,7 @@
                             ]
                         }
                     },
-                    "index" : 21,
+                    "index" : 20,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0
@@ -3421,7 +3412,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 22,
+                "index" : 21,
                 "texCoord" : 1
             },
             "name" : "Curtain",
@@ -3438,7 +3429,7 @@
                         ]
                     }
                 },
-                "index" : 23,
+                "index" : 22,
                 "texCoord" : 1
             },
             "pbrMetallicRoughness" : {
@@ -3455,7 +3446,7 @@
                             ]
                         }
                     },
-                    "index" : 24,
+                    "index" : 23,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0
@@ -3469,13 +3460,13 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 25,
+                "index" : 24,
                 "texCoord" : 1
             },
             "name" : "CurtainBar",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 26,
+                    "index" : 25,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0
@@ -3489,7 +3480,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 27,
+                "index" : 26,
                 "texCoord" : 1
             },
             "extras" : {
@@ -3511,12 +3502,12 @@
                         ]
                     }
                 },
-                "index" : 28,
+                "index" : 27,
                 "texCoord" : 1
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 29,
+                    "index" : 28,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0
@@ -3530,7 +3521,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 30,
+                "index" : 29,
                 "texCoord" : 1
             },
             "extras" : {
@@ -3541,7 +3532,7 @@
             "name" : "Handkle",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 31,
+                    "index" : 30,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0
@@ -3555,8 +3546,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 32,
-                "texCoord" : 1
+                "index" : 31
             },
             "extras" : {
                 "babylonUnlit" : 0,
@@ -3564,22 +3554,36 @@
                 "babylonTransparencyMode" : 0
             },
             "name" : "Fence_Huecos",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -3
+                        ],
+                        "scale" : [
+                            4,
+                            4
+                        ]
+                    }
+                },
+                "index" : 32
+            },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "extensions" : {
                         "KHR_texture_transform" : {
                             "offset" : [
                                 0,
-                                -3
+                                -14
                             ],
                             "scale" : [
-                                4,
-                                4
+                                15,
+                                15
                             ]
                         }
                     },
-                    "index" : 33,
-                    "texCoord" : 1
+                    "index" : 33
                 },
                 "metallicFactor" : 0
             }
@@ -3592,8 +3596,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 34,
-                "texCoord" : 1
+                "index" : 34
             },
             "extras" : {
                 "babylonUnlit" : 0,
@@ -3603,8 +3606,7 @@
             "name" : "Fence_Posted",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 35,
-                    "texCoord" : 1
+                    "index" : 35
                 },
                 "metallicFactor" : 0
             }
@@ -6806,10 +6808,6 @@
         },
         {
             "sampler" : 0,
-            "source" : 3
-        },
-        {
-            "sampler" : 0,
             "source" : 5
         },
         {
@@ -6887,6 +6885,10 @@
         {
             "sampler" : 0,
             "source" : 18
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
         },
         {
             "sampler" : 0,
@@ -7026,14 +7028,6 @@
         },
         {
             "sampler" : 0,
-            "source" : 23
-        },
-        {
-            "sampler" : 0,
-            "source" : 23
-        },
-        {
-            "sampler" : 0,
             "source" : 34
         },
         {
@@ -7042,11 +7036,15 @@
         },
         {
             "sampler" : 0,
-            "source" : 30
+            "source" : 35
         },
         {
             "sampler" : 0,
-            "source" : 35
+            "source" : 23
+        },
+        {
+            "sampler" : 0,
+            "source" : 30
         },
         {
             "sampler" : 0,
@@ -7058,15 +7056,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 35
-        },
-        {
-            "sampler" : 0,
             "source" : 38
         },
         {
             "sampler" : 0,
-            "source" : 35
+            "source" : 36
         },
         {
             "sampler" : 0,
@@ -7074,23 +7068,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 35
-        },
-        {
-            "sampler" : 0,
-            "source" : 30
-        },
-        {
-            "sampler" : 0,
-            "source" : 35
-        },
-        {
-            "sampler" : 0,
-            "source" : 28
-        },
-        {
-            "sampler" : 0,
-            "source" : 35
+            "source" : 36
         },
         {
             "sampler" : 0,
@@ -7098,7 +7076,23 @@
         },
         {
             "sampler" : 0,
-            "source" : 35
+            "source" : 36
+        },
+        {
+            "sampler" : 0,
+            "source" : 30
+        },
+        {
+            "sampler" : 0,
+            "source" : 36
+        },
+        {
+            "sampler" : 0,
+            "source" : 28
+        },
+        {
+            "sampler" : 0,
+            "source" : 36
         },
         {
             "sampler" : 0,
@@ -7106,11 +7100,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 42
+            "source" : 36
         },
         {
             "sampler" : 0,
-            "source" : 35
+            "source" : 42
         },
         {
             "sampler" : 0,
@@ -7118,7 +7112,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 35
+            "source" : 36
         },
         {
             "sampler" : 0,
@@ -7126,15 +7120,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 35
-        },
-        {
-            "sampler" : 0,
-            "source" : 35
-        },
-        {
-            "sampler" : 0,
-            "source" : 35
+            "source" : 36
         },
         {
             "sampler" : 0,
@@ -7142,11 +7128,19 @@
         },
         {
             "sampler" : 0,
-            "source" : 46
+            "source" : 36
         },
         {
             "sampler" : 0,
-            "source" : 35
+            "source" : 36
+        },
+        {
+            "sampler" : 0,
+            "source" : 36
+        },
+        {
+            "sampler" : 0,
+            "source" : 46
         },
         {
             "sampler" : 0,
@@ -7155,34 +7149,6 @@
         {
             "sampler" : 0,
             "source" : 48
-        },
-        {
-            "sampler" : 0,
-            "source" : 47
-        },
-        {
-            "sampler" : 0,
-            "source" : 47
-        },
-        {
-            "sampler" : 0,
-            "source" : 47
-        },
-        {
-            "sampler" : 0,
-            "source" : 47
-        },
-        {
-            "sampler" : 0,
-            "source" : 47
-        },
-        {
-            "sampler" : 0,
-            "source" : 2
-        },
-        {
-            "sampler" : 0,
-            "source" : 47
         },
         {
             "sampler" : 0,
@@ -7198,11 +7164,27 @@
         },
         {
             "sampler" : 0,
-            "source" : 51
+            "source" : 49
         },
         {
             "sampler" : 0,
             "source" : 49
+        },
+        {
+            "sampler" : 0,
+            "source" : 49
+        },
+        {
+            "sampler" : 0,
+            "source" : 49
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 51
         },
         {
             "sampler" : 0,
@@ -7214,7 +7196,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 49
+            "source" : 52
         },
         {
             "sampler" : 0,
@@ -7222,7 +7204,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 49
+            "source" : 52
         },
         {
             "sampler" : 0,
@@ -7230,23 +7212,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 49
-        },
-        {
-            "sampler" : 0,
             "source" : 56
         },
         {
             "sampler" : 0,
-            "source" : 49
-        },
-        {
-            "sampler" : 0,
-            "source" : 54
-        },
-        {
-            "sampler" : 0,
-            "source" : 49
+            "source" : 52
         },
         {
             "sampler" : 0,
@@ -7254,11 +7224,15 @@
         },
         {
             "sampler" : 0,
-            "source" : 49
+            "source" : 52
         },
         {
             "sampler" : 0,
             "source" : 58
+        },
+        {
+            "sampler" : 0,
+            "source" : 52
         },
         {
             "sampler" : 0,
@@ -7266,35 +7240,19 @@
         },
         {
             "sampler" : 0,
-            "source" : 60
+            "source" : 52
         },
         {
             "sampler" : 0,
-            "source" : 58
+            "source" : 57
         },
         {
             "sampler" : 0,
-            "source" : 30
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
-        },
-        {
-            "sampler" : 0,
-            "source" : 59
+            "source" : 52
         },
         {
             "sampler" : 0,
             "source" : 60
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
         },
         {
             "sampler" : 0,
@@ -7302,39 +7260,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 58
-        },
-        {
-            "sampler" : 0,
-            "source" : 2
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
-        },
-        {
-            "sampler" : 0,
-            "source" : 2
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
-        },
-        {
-            "sampler" : 0,
             "source" : 62
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
-        },
-        {
-            "sampler" : 0,
-            "source" : 58
         },
         {
             "sampler" : 0,
@@ -7342,7 +7268,83 @@
         },
         {
             "sampler" : 0,
-            "source" : 58
+            "source" : 64
+        },
+        {
+            "sampler" : 0,
+            "source" : 62
+        },
+        {
+            "sampler" : 0,
+            "source" : 30
+        },
+        {
+            "sampler" : 0,
+            "source" : 62
+        },
+        {
+            "sampler" : 0,
+            "source" : 63
+        },
+        {
+            "sampler" : 0,
+            "source" : 64
+        },
+        {
+            "sampler" : 0,
+            "source" : 62
+        },
+        {
+            "sampler" : 0,
+            "source" : 62
+        },
+        {
+            "sampler" : 0,
+            "source" : 65
+        },
+        {
+            "sampler" : 0,
+            "source" : 62
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 62
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 62
+        },
+        {
+            "sampler" : 0,
+            "source" : 62
+        },
+        {
+            "sampler" : 0,
+            "source" : 66
+        },
+        {
+            "sampler" : 0,
+            "source" : 67
+        },
+        {
+            "sampler" : 0,
+            "source" : 62
+        },
+        {
+            "sampler" : 0,
+            "source" : 68
+        },
+        {
+            "sampler" : 0,
+            "source" : 62
         },
         {
             "sampler" : 0,
@@ -7447,8 +7449,8 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "fence_vert_gris",
-            "uri" : "fence_vert_gris.png"
+            "name" : "fence_albedo",
+            "uri" : "fence_albedo.png"
         },
         {
             "mimeType" : "image/png",
@@ -7521,6 +7523,11 @@
             "uri" : "flower.png"
         },
         {
+            "mimeType" : "image/png",
+            "name" : "Tv_Baking.1001",
+            "uri" : "Tv_Baking_1001.png"
+        },
+        {
             "mimeType" : "image/jpeg",
             "name" : "logo",
             "uri" : "logo.jpg"
@@ -7587,6 +7594,11 @@
         },
         {
             "mimeType" : "image/png",
+            "name" : "BakingCama_Nuevo.1001",
+            "uri" : "BakingCama_Nuevo_1001.png"
+        },
+        {
+            "mimeType" : "image/png",
             "name" : "Lavamanos_Baking_Denoiser",
             "uri" : "Lavamanos_Baking_Denoiser.png"
         },
@@ -7594,6 +7606,11 @@
             "mimeType" : "image/jpeg",
             "name" : "color_ceramic",
             "uri" : "color_ceramic.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Lavamanos_Baking_.1001",
+            "uri" : "Lavamanos_Baking__1001.png"
         },
         {
             "mimeType" : "image/png",
@@ -7642,6 +7659,11 @@
         },
         {
             "mimeType" : "image/png",
+            "name" : "Ligthmap_Escritorio",
+            "uri" : "Ligthmap_Escritorio.png"
+        },
+        {
+            "mimeType" : "image/png",
             "name" : "Baking_mesa_jardin_Denoiser",
             "uri" : "Baking_mesa_jardin_Denoiser.png"
         },
@@ -7664,6 +7686,11 @@
             "mimeType" : "image/jpeg",
             "name" : "fabric_pattern",
             "uri" : "fabric_pattern.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Baking_mesa_jardin.1001",
+            "uri" : "Baking_mesa_jardin_1001.png"
         },
         {
             "mimeType" : "image/jpeg",

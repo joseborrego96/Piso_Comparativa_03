@@ -4146,6 +4146,19 @@
             "name" : "Cuadro",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                -4.599999904632564,
+                                1.0000002010723898
+                            ],
+                            "rotation" : 1.5707963705062866,
+                            "scale" : [
+                                6.250000953674316,
+                                4.599999904632568
+                            ]
+                        }
+                    },
                     "index" : 78
                 },
                 "metallicFactor" : 0,

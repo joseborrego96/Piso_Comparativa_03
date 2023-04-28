@@ -4783,7 +4783,8 @@
                 "baseColorTexture" : {
                     "index" : 125
                 },
-                "metallicFactor" : 0
+                "metallicFactor" : 0.4000000059604645,
+                "roughnessFactor" : 0.20000000298023224
             }
         },
         {
@@ -7339,6 +7340,10 @@
         },
         {
             "sampler" : 0,
+            "source" : 21
+        },
+        {
+            "sampler" : 0,
             "source" : 60
         },
         {
@@ -7355,15 +7360,15 @@
         },
         {
             "sampler" : 0,
-            "source" : 64
-        },
-        {
-            "sampler" : 0,
-            "source" : 62
+            "source" : 61
         },
         {
             "sampler" : 0,
             "source" : 31
+        },
+        {
+            "sampler" : 0,
+            "source" : 61
         },
         {
             "sampler" : 0,
@@ -7375,15 +7380,39 @@
         },
         {
             "sampler" : 0,
+            "source" : 61
+        },
+        {
+            "sampler" : 0,
+            "source" : 61
+        },
+        {
+            "sampler" : 0,
             "source" : 64
         },
         {
             "sampler" : 0,
-            "source" : 62
+            "source" : 61
         },
         {
             "sampler" : 0,
-            "source" : 62
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 61
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 61
+        },
+        {
+            "sampler" : 0,
+            "source" : 61
         },
         {
             "sampler" : 0,
@@ -7391,31 +7420,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 62
-        },
-        {
-            "sampler" : 0,
-            "source" : 2
-        },
-        {
-            "sampler" : 0,
-            "source" : 62
-        },
-        {
-            "sampler" : 0,
-            "source" : 2
-        },
-        {
-            "sampler" : 0,
-            "source" : 62
-        },
-        {
-            "sampler" : 0,
-            "source" : 62
-        },
-        {
-            "sampler" : 0,
             "source" : 66
+        },
+        {
+            "sampler" : 0,
+            "source" : 61
         },
         {
             "sampler" : 0,
@@ -7423,15 +7432,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 62
-        },
-        {
-            "sampler" : 0,
-            "source" : 68
-        },
-        {
-            "sampler" : 0,
-            "source" : 62
+            "source" : 61
         },
         {
             "sampler" : 0,
@@ -7706,8 +7707,8 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "Baking_Iluminaci\u00f3n_Lateral_Denoiser",
-            "uri" : "Baking_Iluminaci%C3%B3n_Lateral_Denoiser.png"
+            "name" : "Ligthmap_Escritorio_Denoiser",
+            "uri" : "Ligthmap_Escritorio_Denoiser.png"
         },
         {
             "mimeType" : "image/jpeg",
@@ -7740,14 +7741,9 @@
             "uri" : "fabric_grey_basecolor.jpg"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : "color_dark",
-            "uri" : "color_dark-1.jpg"
-        },
-        {
             "mimeType" : "image/png",
-            "name" : "Ligthmap_Escritorio",
-            "uri" : "Ligthmap_Escritorio.png"
+            "name" : "Lightmap_Escritorio_Shadow.1001",
+            "uri" : "Lightmap_Escritorio_Shadow_1001.png"
         },
         {
             "mimeType" : "image/png",

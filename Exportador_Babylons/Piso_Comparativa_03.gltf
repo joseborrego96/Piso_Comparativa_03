@@ -3794,7 +3794,7 @@
                 "index" : 47,
                 "texCoord" : 1
             },
-            "name" : "Ceiling_ext_02",
+            "name" : "Ceiling_ext_01",
             "normalTexture" : {
                 "extensions" : {
                     "KHR_texture_transform" : {
@@ -7562,8 +7562,8 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "Tv_Baking_Denoiser",
-            "uri" : "Tv_Baking_Denoiser.png"
+            "name" : "Tv_Baking.1001",
+            "uri" : "Tv_Baking_1001.png"
         },
         {
             "mimeType" : "image/jpeg",

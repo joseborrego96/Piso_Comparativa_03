@@ -3738,7 +3738,7 @@
             "extras" : {
                 "SB_orig_fake_user" : 0
             },
-            "name" : "Ceiling",
+            "name" : "Ceiling_02",
             "normalTexture" : {
                 "extensions" : {
                     "KHR_texture_transform" : {
@@ -3774,7 +3774,7 @@
                 "index" : 45,
                 "texCoord" : 1
             },
-            "name" : "Ceiling_ext",
+            "name" : "Ceiling_ext_02",
             "normalTexture" : {
                 "extensions" : {
                     "KHR_texture_transform" : {
